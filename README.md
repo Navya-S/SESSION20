@@ -1,5 +1,5 @@
 # ERA-SESSION20 - Stable Diffusion: Generative Art with Guidance
-HuggingFace Space Link: https://huggingface.co/spaces/RaviNaik/ERA-SESSION20
+HuggingFace Space Link: https://huggingface.co/spaces/Navya/SESSION20
 
 ### Tasks:
 1. :heavy_check_mark: Select 5 different styles of your choice and show output for the same prompt using these 5 different styles. Remember the seeds as you'll use them later. Keep seeds different for each 5 types.
